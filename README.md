@@ -1,3 +1,11 @@
+Fork of https://github.com/FrameworkComputer/framework-system containing quality of life changes for my own personal system
+
+# Changes from Upstream:
+
+
+
+# Original Readme
+
 # Framework System
 
 Rust libraries and tools to interact with the system.
